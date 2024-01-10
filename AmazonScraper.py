@@ -1,3 +1,6 @@
+#DeveloperGitHub: https://github.com/AhmedShaikh0/
+#Twitter: https://twitter.com/AhmedShaikh02
+
 from bs4 import BeautifulSoup
 import requests
 from colorama import Fore
